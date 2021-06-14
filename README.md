@@ -1,5 +1,6 @@
 # Firefox-Safari_Unified-Tabs-Mod
 This is a mod to make Firefox look more like the new Safari Unveiled at WWDC 2021. It features tabs and address bar in a unified bar,similar to Safari for MacOS Monterey.
+(Note:All the buttons are customizable and can be removed.)
 ![Screenshot from 2021-06-11 18-59-45](https://user-images.githubusercontent.com/61003297/121838046-917e6b80-ccf4-11eb-9dd0-ae5b8aee782f.png)
 ![Screenshot from 2021-06-11 19-00-21](https://user-images.githubusercontent.com/61003297/121838058-993e1000-ccf4-11eb-9897-f6fb3d562e73.png)
 To apply this theme to your computer, paste the userChrome.css file to a folder named "chrome" in your Firefox root directory.
