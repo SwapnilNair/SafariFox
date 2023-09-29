@@ -1,7 +1,7 @@
 # The SafariFox : Bringing Safari to Firefox
 
-**This is a mod to make Firefox look more like the new Safari Unveiled at WWDC 2021. It features tabs and address bar in a unified bar,similar to Safari for MacOS Monterey.**
-
+**This was a mod to make Firefox look more like the new Safari Unveiled at WWDC 2021. It features tabs and address bar in a unified bar,similar to Safari for MacOS Monterey.**
+> I love Apple's Design , but their pricing ? Not so much.
 
 (Note:All the buttons are customizable and can be removed.)
 
